@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+  "start": "node server.js",
+  "cypress-run": "cypress run"
   },
   "keywords": [],
   "author": "",
